@@ -9,7 +9,7 @@ To duplicate these results:
 
 * Install Node.js and NPM
 * Download the Zip file from the above repo (https://github.com/scripting/rss) and extract it in a folder
-* Copy the test.js file from this repo into the folder, overwriting the repo folder
+* Copy the test.js file from this repo into the folder, overwriting the test.js file in the repo folder
 * Open a command prompt or Terminal window and navigate to the folder
 * Enter the command "npm install" without quotes - this will install the Node.js packages needed for the app in a subfolder called "node-packages"
 * Enter the command "node test.js" - the app should create the podcast feed rss.xml
